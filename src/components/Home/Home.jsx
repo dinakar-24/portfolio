@@ -59,7 +59,7 @@ const Home = () => {
         <div className="home-content-links">
           <motion.a
             className="gmail"
-            href="Mail-to:dinakarsaireddylingala@gmail.com"
+            href="Mailto:dinakarsaireddylingala@gmail.com"
             aria-label="Email"
             target="_blank"
             rel="noopener noreferrer"
